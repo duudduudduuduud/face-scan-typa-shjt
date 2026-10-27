@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../FaceId-Sv"
+		},
+		{
+			"path": "../FaceId-Sv-be"
+		}
+	],
+	"settings": {}
+}
