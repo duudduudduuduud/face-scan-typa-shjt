@@ -115,15 +115,13 @@ Nguồn: `ROLES.md`, `Face-Fe-main/src/App.tsx`, `Face-Be-main/src/auth/roles.ts
 
 > **Repo không chứa danh sách thành viên hay vai trò của nhóm.** `package.json` để trống trường `author`; file `LICENSE` chỉ ghi tên chủ sở hữu tài khoản GitHub (`duudduudduuduud`). Báo cáo trong repo cho biết đây là tài liệu của **"Tuần 5 – Buổi 2: Cách nhóm trình bày tổng quan về Project"** (ngày biên soạn 15/10/2026). Bảng dưới để nhóm tự điền, tránh ghi sai thông tin.
 
-| STT | Họ tên | MSSV | Vai trò trong nhóm | Module phụ trách | GitHub |
+| STT | Họ tên | MSSV | Vai trò trong nhóm | Module phụ trách |
 |---|---|---|---|---|---|
-| 1 | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` | `[AI / Backend / Frontend / Tài liệu / Kiểm thử]` | `[CẦN ĐIỀN]` |
-| 2 | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` |
-| 3 | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` |
-
-| Thông tin cần điền | Giảng viên hướng dẫn | Học phần / lớp |
-|---|---|---|
-| Giá trị | `[CẦN ĐIỀN]` | `[CẦN ĐIỀN]` |
+| 1 | `[Hoàng Trường Huy]` | `[BIT250172]` | `[Trưởng nhóm]` | `[Tài liệu / Kiểm thử / Frontend]` |
+| 2 | `[Khúc Đình Hưng]` | `[BIT253642]` | `[Thành viên]` | `[Backend]` |
+| 3 | `[Hoàng Nguyên Khôi]` | `[BIT250199]` | `[Thành viên]` | `[Frontend]` |
+| 4 | `[Trần Đăng Khôi]` | `[BIT250201]` | `[Thành viên]` | `[Frontend]` |
+| 5 | `[Lê Tuấn Tiến]` | `[BIT230396]` | `[Thành viên]` | `[Phát triển mô hình A.I và backend]` |
 
 Cách lấy danh sách đóng góp từ lịch sử Git (chạy trên bản clone đầy đủ):
 
@@ -217,7 +215,7 @@ flowchart TB
 | Backend | `Face-Be-main/` | JWT, phân quyền, nghiệp vụ, lưu dữ liệu, gọi AI, phát hành vé nhận diện có chữ ký |
 | AI | `Face-AI-main/` | Phát hiện mặt, trích xuất đặc trưng, đăng ký, nhận diện, huấn luyện, quản lý phiên bản mô hình |
 
-### 4.4 Cấu trúc thư mục
+### 4.4 Cây thư mục
 
 ```text
 face-scan-typa-shjt-main/
